@@ -4,17 +4,24 @@ I'm Rob (or Trigger). I studied game programming in college, although a lot of m
 
 ### 🌠 Fun facts
 
+<details><summary><sup><i>click me</i></sup></summary>
+  
 * 🐍 Python Interactive Shell is a fantastic tool for reversing+analyzing data and patterns on the fly.
 
-* 🗜️ **78 DA** (&thinsp;xZ&thinsp;) is the most exciting thing to find in a hexdump.
+* 🗜️ <b>78 DA</b> (&thinsp;xZ&thinsp;) is the most exciting thing to find in a hexdump.
 
-* 🔐 Faulty implementations of CRC-32 are the *"best"* encryption method.
+* 🔐 Faulty implementations of CRC-32 are the <i>"best"</i> encryption method.
+</details>
 
 ### ✨ Highlights
+
+<details><summary><sup><i>click me</i></sup></summary>
+
 * [<kbd>0d5c4f7</kbd>&nbsp;IT&nbsp;JUST&nbsp;WORKS](https://github.com/trigger-segfault/AsciiArtist/commit/0d5c4f7)
 * [<kbd>#1959</kbd>&nbsp;Implement&nbsp;Background&nbsp;Image&nbsp;Align](https://github.com/microsoft/terminal/pull/1959)
 * [<kbd>#6620</kbd>&nbsp;Fix:&nbsp;Viewport&nbsp;scrolling](https://github.com/OpenRCT2/OpenRCT2/pull/6620)
 * [<kbd>#1058</kbd>&nbsp;Land&nbsp;tool&nbsp;painting](https://github.com/OpenRCT2/OpenRCT2/pull/1058)
+</details>
 
 ### 💡 Fun Javascript expression
 
